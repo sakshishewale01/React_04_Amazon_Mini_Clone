@@ -30,27 +30,6 @@ This project is inspired by the basic shopping experience of Amazon and was crea
 - Vite
 - Git & GitHub
 
-
-## 🔄 Application Flow
-
-Home
-  ↓
-Products
-  ↓
-Product Details
-  ↓
-Add to Cart
-  ↓
-Cart
-  ↓
-Checkout
-
-Other available pages:
-
-Login → User Login UI
-
-Orders → Display Previous Orders
-
 ## 🧠 React Concepts Practiced
 
 ### React Router
