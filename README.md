@@ -30,30 +30,6 @@ This project is inspired by the basic shopping experience of Amazon and was crea
 - Vite
 - Git & GitHub
 
-## 📂 Project Structure
-
-src/
-│
-├── components/
-│   ├── Navbar.jsx
-│   ├── Footer.jsx
-│   └── ProductCard.jsx
-│
-├── Context/
-│   └── CartContext.jsx
-│
-├── pages/
-│   ├── Home.jsx
-│   ├── Products.jsx
-│   ├── ProductDetails.jsx
-│   ├── Cart.jsx
-│   ├── Login.jsx
-│   ├── Orders.jsx
-│   └── NotFound.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
 
 ## 🔄 Application Flow
 
